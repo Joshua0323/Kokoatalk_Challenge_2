@@ -1,2 +1,2 @@
 # Kokoatalk_Challenge_2
-Created with CodeSandbox
+Kokoatalk clone coding challenge work for css (margin, padding, border, color, align...)
