@@ -1,0 +1,35 @@
+html {
+  background-color: tomato;
+}
+
+.inner-square-1,
+.inner-square-2 {
+  background-color: turquoise;
+  height: 80px;
+  width: 80px;
+  border: 3px solid white;
+}
+
+.inner-square-1 {
+  margin: 30px 150px;
+}
+
+.inner-square-2 {
+  margin: 0px 150px;
+}
+
+.inner-rectangle {
+  background-color: turquoise;
+  height: 80px;
+  width: 320px;
+  border: 3px dashed white;
+  margin: 40px 37px;
+}
+
+.outer-square {
+  margin: 200px;
+  background-color: wheat;
+  height: 400px;
+  width: 400px;
+  border: 3px solid black;
+}
